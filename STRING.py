@@ -1,3 +1,5 @@
+# Author Gourish mokashi
+
 mystr= "Python is a programming language"
 print(mystr)
 print(len(mystr))
