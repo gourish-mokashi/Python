@@ -1,3 +1,5 @@
+# Author Gourish Mokashi
+
 print("Hello World")
 print("The Above written is my first ever Python code")
 print("The feeling is WOW!")
