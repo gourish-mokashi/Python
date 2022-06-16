@@ -1,4 +1,5 @@
 mystr= "Python is a programming language"
+print(mystr)
 print(len(mystr))
 #here len() function shows the length of the string
 """-----------------------------------------------------------------------------------------------------------------"""
