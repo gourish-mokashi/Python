@@ -1,3 +1,6 @@
+# Author Gourish Mokashi
+# 17/06/2022
+
 # Dictionary is nothing but set of values
 d1 = {}
 print(type(d1))
